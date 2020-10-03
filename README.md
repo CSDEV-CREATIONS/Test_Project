@@ -1,5 +1,5 @@
 <!-- @format -->
 
-## First C# Test Project
+## First Test Project
 
 This is my first c# test project
