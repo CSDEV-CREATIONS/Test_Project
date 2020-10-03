@@ -1,0 +1,13 @@
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\bin\Debug\netcoreapp3.1\Test_Project.exe
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\bin\Debug\netcoreapp3.1\Test_Project.deps.json
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\bin\Debug\netcoreapp3.1\Test_Project.runtimeconfig.json
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\bin\Debug\netcoreapp3.1\Test_Project.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\bin\Debug\netcoreapp3.1\Test_Project.dll
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\bin\Debug\netcoreapp3.1\Test_Project.pdb
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\obj\Debug\netcoreapp3.1\Test_Project.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\obj\Debug\netcoreapp3.1\Test_Project.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\obj\Debug\netcoreapp3.1\Test_Project.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\obj\Debug\netcoreapp3.1\Test_Project.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\obj\Debug\netcoreapp3.1\Test_Project.dll
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\obj\Debug\netcoreapp3.1\Test_Project.pdb
+C:\Users\Owner\Desktop\Git_Repos\Test_Project\Test_Project\obj\Debug\netcoreapp3.1\Test_Project.genruntimeconfig.cache
